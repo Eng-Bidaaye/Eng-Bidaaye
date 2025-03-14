@@ -32,7 +32,10 @@
 - 👯 **Looking to collaborate on**: Data-driven projects in **Health Science** and **Data Analytics**.
 - 🤝 **Seeking guidance in**: Advanced **Data Analytics** techniques and insights.
 - 👨‍💻 **My projects**: Available at [Bidaaye.damk](https://bidaaye.damk/).
-- 📫 **Reach me at**: [Bidaaye.damk@gmail.com](mailto:Bidaaye.damk@gmail.com).
+- 📫 **Reach me at**: 
+  - Email: [Bidaaye.damk@gmail.com](mailto:Bidaaye.damk@gmail.com)
+  - WhatsApp: [Message me on WhatsApp](https://wa.me/252617335024)
+  - Phone: +252 617 335 024
 
 ---
 
@@ -49,6 +52,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aweis-ahmed-sabria-795b24224/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/aways.haaji.7" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/252617335024" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp" width="40" height="40"/>
   </a>
 </p>
 
