@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Eng-Bidaaye/Aweis-Haji-Port/blob/5b95dd4cd71ae429821617af140f1d0deee08745/profile-removebg-preview.png" alt="Profile Picture" width="250" style="border-radius: 70%;"/>
+  <img src="https://github.com/Eng-Bidaaye/Aweis-Haji-Port/blob/5b95dd4cd71ae429821617af140f1d0deee08745/profile-removebg-preview.png" alt="Profile Picture" width="250" style="border-radius: 50%;"/>
   <br>
   Hi 👋, I'm Aweis Haji
 </h1>
@@ -12,32 +12,13 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
 
 ---
 
-## 🚀 Featured Projects:
-<p align="center">
-  <a href="https://Bidaaye.damk">
-    <img src="https://via.placeholder.com/300x150.png?text=Project+1" alt="Project 1" width="300" height="150"/>
-  </a>
-  <a href="#">
-    <img src="https://via.placeholder.com/300x150.png?text=Project+2" alt="Project 2" width="300" height="150"/>
-  </a>
-</p>
-
----
-
 ## 🔥 About Me:
 - 🔭 **Currently working on**: Freelance projects. Connect with me on [LinkedIn](https://www.linkedin.com/in/aweis-ahmed-sabria-795b24224/).
 - 🌱 **Currently learning**: Advanced **Data Analysis** techniques using **Excel**, **SQL**, and **Python**.
 - 👯 **Looking to collaborate on**: Data-driven projects in **Health Science** and **Data Analytics**.
 - 🤝 **Seeking guidance in**: Advanced **Data Analytics** techniques and insights.
 - 👨‍💻 **My projects**: Available at [Bidaaye.damk](https://Bidaaye.damk).
-- 📫 **Reach me at**: Bidaaye.damk@gmail.com | Zabria101@gmail.com.
-
----
-
-## 📈 GitHub Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eng-bidaaye&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
+- 📫 **Reach me at**: Bidaaye.damk@gmail.com
 
 ---
 
@@ -52,24 +33,9 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
   <a href="https://wa.me/252617335024" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp" width="40" height="40"/>
   </a>
-  <a href="tel:+252617335024" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="Phone" width="40" height="40"/>  +252617335024 (Call)
+  <a href="mailto:Bidaaye.damk@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>  Bidaaye.damk@gmail.com
   </a>
-  <a href="mailto:Bidaaye.dmk@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>  Bidaaye.dmk@gmail.com
-  </a>
-  <a href="mailto:zabria101@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>  Zabria101@gmail.com
-  </a>
-</p>
-
----
-
-## 🏆 Skills & Certifications:
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-Excel%20%7C%20SQL%20%7C%20Python-blue" />
-  <img src="https://img.shields.io/badge/Digital%20Marketing-SEO%20%7C%20Content%20Strategy-orange" />
-  <img src="https://img.shields.io/badge/Design-Photoshop%20%7C%20Illustrator-red" />
 </p>
 
 ---
