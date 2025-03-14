@@ -46,6 +46,12 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
   <a href="https://www.linkedin.com/in/aweis-ahmed-sabria-795b24224/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  <a href="https://www.facebook.com/aways.haaji.7" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/252617335024" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp" width="40" height="40"/>
+  </a>
 </p>
 
 ---
