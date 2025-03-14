@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Eng-Bidaaye/Aweis-Haji-Port/blob/5b95dd4cd71ae429821617af140f1d0deee08745/profile-removebg-preview.png" alt="Profile Picture" width="250" style="border-radius: 50%;"/>
+  <img src="https://github.com/Eng-Bidaaye/Aweis-Haji-Port/blob/5b95dd4cd71ae429821617af140f1d0deee08745/profile-removebg-preview.png" alt="Profile Picture" width="250" style="border-radius: 70%;"/>
   <br>
   Hi 👋, I'm Aweis Haji
 </h1>
@@ -30,7 +30,7 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
 - 👯 **Looking to collaborate on**: Data-driven projects in **Health Science** and **Data Analytics**.
 - 🤝 **Seeking guidance in**: Advanced **Data Analytics** techniques and insights.
 - 👨‍💻 **My projects**: Available at [Bidaaye.damk](https://Bidaaye.damk).
-- 📫 **Reach me at**: Bidaaye.damk@gmail.com.
+- 📫 **Reach me at**: Bidaaye.damk@gmail.com | Zabria101@gmail.com.
 
 ---
 
@@ -51,6 +51,15 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
   </a>
   <a href="https://wa.me/252617335024" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp" width="40" height="40"/>
+  </a>
+  <a href="tel:+252617335024" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="Phone" width="40" height="40"/>  +252617335024 (Call)
+  </a>
+  <a href="mailto:Bidaaye.dmk@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>  Bidaaye.dmk@gmail.com
+  </a>
+  <a href="mailto:zabria101@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>  Zabria101@gmail.com
   </a>
 </p>
 
@@ -81,18 +90,6 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   </a>
 </p>
 
