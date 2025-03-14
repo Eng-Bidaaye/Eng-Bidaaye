@@ -36,6 +36,9 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
   <a href="mailto:Bidaaye.damk@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>  Bidaaye.damk@gmail.com
   </a>
+  <a href="tel:+252617335024" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Call" width="40" height="40"/> 📞 252617335024
+  </a>
 </p>
 
 ---
