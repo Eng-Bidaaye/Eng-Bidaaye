@@ -1,6 +1,4 @@
 <h1 align="center">
-  <img src="https://github.com/Eng-Bidaaye/Aweis-Haji-Port/blob/5b95dd4cd71ae429821617af140f1d0deee08745/profile-removebg-preview.png" alt="Profile Picture" width="250" style="border-radius: 50%;"/>
-  <br>
   Hi 👋, I'm Aweis Haji
 </h1>
 
@@ -16,10 +14,10 @@
 
 <p align="center">
   <a href="https://bidaaye.damk/">
-    <img src="https://via.placeholder.com/300x150.png?text=Project+1" alt="Project 1" width="300" height="150"/>
+    <img src="https://via.placeholder.com/300x150.png?text=Future+Project+1" alt="Future Project 1" width="300" height="150"/>
   </a>
   <a href="#">
-    <img src="https://via.placeholder.com/300x150.png?text=Project+2" alt="Project 2" width="300" height="150"/>
+    <img src="https://via.placeholder.com/300x150.png?text=Future+Project+2" alt="Future Project 2" width="300" height="150"/>
   </a>
 </p>
 
