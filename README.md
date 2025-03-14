@@ -1,7 +1,7 @@
 <h1 align="center">
 
   <br>
-  Hi 👋, I'm Aweis Haji
+  Hi 👋 I'm Aweis Haji
 </h1>
 
 <h3 align="center">Passionate Data Analyst | Digital Marketer | Creative Visionary</h3>
