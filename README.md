@@ -18,7 +18,7 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
 - 👯 **Looking to collaborate on**: Data-driven projects in **Health Science** and **Data Analytics**.
 - 🤝 **Seeking guidance in**: Advanced **Data Analytics** techniques and insights.
 - 👨‍💻 **My projects**: Available at [Bidaaye.damk](https://Bidaaye.damk).
-- 📫 **Reach me at**: Bidaaye.damk@gmail.com
+- 📫 **Reach me at**: 📧 Bidaaye.damk@gmail.com | 📞 252617335024
 
 ---
 
@@ -32,12 +32,6 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
   </a>
   <a href="https://wa.me/252617335024" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp" width="40" height="40"/>
-  </a>
-  <a href="mailto:Bidaaye.damk@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>  Bidaaye.damk@gmail.com
-  </a>
-  <a href="tel:+252617335024" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Call" width="40" height="40"/> 📞 252617335024
   </a>
 </p>
 
