@@ -43,6 +43,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eng-bidaaye&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
+📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Eng-Bidaaye&show_icons=true&theme=github_dark&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Bidaaye&layout=compact&theme=github_dark&hide_border=true" />
 
 ---
 
