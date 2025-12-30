@@ -2,7 +2,8 @@
   Hi 👋, I'm Aweis Haji
 </h1>
 
-<h3 align="center">Passionate Data Analyst | Digital Marketer | Creative Visionary</h3>
+<h3 align="center">Passionate Data Analyst | Digital Marketer | IT Support Specialisty</h3>
+
 
 <p align="center">
   I am navigating the fields of Data Analysis and Digital Marketing with enthusiasm and curiosity. Each day brings opportunities to explore new data insights, test innovative strategies, and create meaningful visual storytelling. I'm committed to learning, contributing, and making an impact in every project I undertake.
