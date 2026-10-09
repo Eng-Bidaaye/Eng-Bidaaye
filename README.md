@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/aweis-ahmed-sabria-795b24224/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:Bidaaye.damk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:aweis.sabria@just.edu.so"><img src="https://img.shields.io/badge/Email-aweis.sabria%40just.edu.so-D14836?style=flat&logo=gmail&logoColor=white" alt="Email: aweis.sabria@just.edu.so" /></a>
   <a href="https://wa.me/252617335024"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://www.facebook.com/aways.haaji.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://kulturehire.com/portfolio/aweis-ahmad-sabrie"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -74,7 +74,7 @@ I'm now training to become an **AI engineer**, so I can build AI tools for digit
 
 ## Contact Me
 
-- **Email:** [Bidaaye.damk@gmail.com](mailto:Bidaaye.damk@gmail.com)
+- **Email:** [aweis.sabria@just.edu.so](mailto:aweis.sabria@just.edu.so)
 - **Phone:** +252 61 7335024 · +252 77 0656588
 - **WhatsApp:** [Message me on WhatsApp](https://wa.me/252617335024)
 - **LinkedIn:** [aweis-ahmed-sabria](https://www.linkedin.com/in/aweis-ahmed-sabria-795b24224/)
