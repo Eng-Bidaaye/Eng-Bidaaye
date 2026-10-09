@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="BIDAAYE — Aweis Ahmed Sabrie" width="100%" />
+<img src="./assets/bidaaye-banner.jpg" alt="BIDAAYE — Aweis Ahmed Sabrie" width="100%" />
 
 # Hi, I'm Aweis Ahmed Sabrie (Bidaaye)
 
@@ -105,5 +105,7 @@ flowchart LR
 <div align="center">
 
 **Open to collaboration on digital health, health data, and practical automation projects.**
+
+<img src="./assets/bidaaye-logo.png" alt="BIDAAYE logo" width="220" />
 
 </div>
