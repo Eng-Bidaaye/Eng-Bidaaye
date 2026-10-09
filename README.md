@@ -24,18 +24,20 @@
 
 I'm Aweis, from Mogadishu, Somalia. I work on the HMIS / ICT team at the Directorate of Health and Human Services, Banadir Regional Administration, where we're moving public health facilities from paper registers to electronic records.
 
-Most of my days are spent on the **RAAD EHR** (OpenMRS / Bahmni). I turn paper clinical forms into digital ones, connect our data to **DHIS2** for reporting, and train the district HMIS officers who use the system every day.
+**What I do**
 
-I didn't start in health. I started in data analysis, digital marketing, business strategy and IT support, and I still use all four:
+- Configure and support the **RAAD EHR** (OpenMRS / Bahmni) in public health facilities
+- Convert paper clinical forms into digital forms
+- Link facility data to **DHIS2** for reporting
+- Train and support district HMIS officers
 
-- **Data analysis** helps me check whether the numbers coming out of facilities actually make sense.
-- **Digital marketing** taught me how to explain a new system to people who are used to doing things on paper.
-- **Business strategy** makes me ask what a facility really needs, and what it will cost, before we change anything.
-- **IT support** keeps me practical. When something breaks, I'm usually the one fixing it.
+**What I bring**
 
-Where I'm going: I want to build the tools myself, not only run them. I'm learning Python, FastAPI, React, PostgreSQL and Docker on my way to becoming a **full-stack AI engineer**, so I can build software that takes routine work off health workers and gives managers data they can trust.
+My background is in data analytics, digital marketing, business strategy and IT support. Together, they help me do more than set up a system: I make sure the data is reliable, the people using it understand it, and the work fits what a facility actually needs.
 
-🎓 I'm also doing a postgraduate degree at INTI International University.
+**What's next**
+
+I'm learning full-stack development and AI (Python, FastAPI, React, PostgreSQL and Docker) so I can build digital health tools myself, not only run them. I'm also doing a postgraduate degree at INTI International University.
 
 ---
 
