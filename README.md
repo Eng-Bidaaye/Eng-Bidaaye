@@ -22,30 +22,14 @@
 
 ## About Me
 
-I work in **digital health operations** in Mogadishu, Somalia, as part of the HMIS / ICT team at the Directorate of Health and Human Services, Banadir Regional Administration.
+I'm a **digital health and data professional** from Mogadishu, Somalia, working with the HMIS / ICT team at the Directorate of Health and Human Services, Banadir Regional Administration. I help health facilities move from paper to digital systems, and I'm growing into a **Full-Stack AI Engineer** who builds AI and automation tools for digital health.
 
-- Implementing and supporting the **RAAD EHR** (built on **OpenMRS / Bahmni**) across public health facilities
-- Integrating clinical data with **DHIS2** for reporting
-- Turning paper clinical forms into structured **EHR form configurations**
-- Training district HMIS officers and supporting end users
-- Background in **data analytics**, **digital marketing**, **business strategy** and **IT support**
-
-### How my work fits together
-
-```mermaid
-flowchart LR
-    A[Paper clinical forms] --> B[EHR form configuration]
-    B --> C[RAAD EHR<br/>OpenMRS / Bahmni]
-    C --> D[DHIS2 reporting]
-    D --> E[Data for health decisions]
-    F[HMIS officer training<br/>& user support] -.-> C
-```
-
-## Currently
-
-- Building skills toward **AI and full-stack engineering**: SQL, APIs with FastAPI, React, Node.js, PostgreSQL, Prisma, Docker, Linux
-- Pursuing a **postgraduate degree** at INTI International University
-- Interested in: health information systems, data quality, and practical automation
+- 🏥 **What I do:** implement and support the **RAAD EHR** (OpenMRS / Bahmni), integrate clinical data with **DHIS2**, configure clinical forms, and train HMIS officers
+- 📊 **Background:** data analytics, digital marketing, business strategy, and IT support
+- 🌱 **Currently learning:** Python, SQL, FastAPI, Node.js, React, PostgreSQL, Prisma, Docker, and Linux
+- 🎓 **Studying:** postgraduate degree at INTI International University
+- 🎯 **Goal:** become a Full-Stack AI Engineer building smart, practical tools for health and business
+- 🤝 **Open to:** collaboration on digital health, data, AI, and automation projects
 
 ---
 
@@ -104,7 +88,7 @@ flowchart LR
 
 <div align="center">
 
-**Open to collaboration on digital health, health data, and practical automation projects.**
+**Open to collaboration on digital health, AI, and automation projects.**
 
 <img src="./assets/bidaaye-logo.png" alt="BIDAAYE logo" width="220" />
 
