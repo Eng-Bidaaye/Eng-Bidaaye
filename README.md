@@ -22,14 +22,20 @@
 
 ## About Me
 
-I'm a **digital health and data professional** from Mogadishu, Somalia, working with the HMIS / ICT team at the Directorate of Health and Human Services, Banadir Regional Administration. I help health facilities move from paper to digital systems, and I'm growing into a **Full-Stack AI Engineer** who builds AI and automation tools for digital health.
+I'm Aweis, from Mogadishu, Somalia. I work on the HMIS / ICT team at the Directorate of Health and Human Services, Banadir Regional Administration, where we're moving public health facilities from paper registers to electronic records.
 
-- 🏥 **What I do:** implement and support the **RAAD EHR** (OpenMRS / Bahmni), integrate clinical data with **DHIS2**, configure clinical forms, and train HMIS officers
-- 📊 **Background:** data analytics, digital marketing, business strategy, and IT support
-- 🌱 **Currently learning:** Python, SQL, FastAPI, Node.js, React, PostgreSQL, Prisma, Docker, and Linux
-- 🎓 **Studying:** postgraduate degree at INTI International University
-- 🎯 **Goal:** become a Full-Stack AI Engineer building smart, practical tools for health and business
-- 🤝 **Open to:** collaboration on digital health, data, AI, and automation projects
+Most of my days are spent on the **RAAD EHR** (OpenMRS / Bahmni). I turn paper clinical forms into digital ones, connect our data to **DHIS2** for reporting, and train the district HMIS officers who use the system every day.
+
+I didn't start in health. I started in data analysis, digital marketing, business strategy and IT support, and I still use all four:
+
+- **Data analysis** helps me check whether the numbers coming out of facilities actually make sense.
+- **Digital marketing** taught me how to explain a new system to people who are used to doing things on paper.
+- **Business strategy** makes me ask what a facility really needs, and what it will cost, before we change anything.
+- **IT support** keeps me practical. When something breaks, I'm usually the one fixing it.
+
+Where I'm going: I want to build the tools myself, not only run them. I'm learning Python, FastAPI, React, PostgreSQL and Docker on my way to becoming a **full-stack AI engineer**, so I can build software that takes routine work off health workers and gives managers data they can trust.
+
+🎓 I'm also doing a postgraduate degree at INTI International University.
 
 ---
 
@@ -71,9 +77,9 @@ I'm a **digital health and data professional** from Mogadishu, Somalia, working 
 
 | Project | What it is | Focus |
 |---|---|---|
-| [**it-support-knowledge-base**](https://github.com/Eng-Bidaaye/it-support-knowledge-base) | Structured IT support knowledge base: troubleshooting guides, commands, and ticket-style solutions, based on the Google IT Support Professional Certificate | Windows, networking, security, documentation |
-| [**kulturehire-github-internship**](https://github.com/Eng-Bidaaye/kulturehire-github-internship) | Version-control practice from the KultureHire GitHub internship: branching, merging, conflict resolution, remote collaboration | Git, GitHub, Git Bash |
-| [**DataAnalysisportofio**](https://github.com/Eng-Bidaaye/DataAnalysisportofio) | Data analysis portfolio | Excel, SQL, Python, dashboards |
+| [**it-support-knowledge-base**](https://github.com/Eng-Bidaaye/it-support-knowledge-base) | My IT support notes: troubleshooting guides, commands and ticket-style fixes from the Google IT Support Professional Certificate | Windows, networking, security, documentation |
+| [**kulturehire-github-internship**](https://github.com/Eng-Bidaaye/kulturehire-github-internship) | Git practice from my KultureHire internship: branching, merging, fixing conflicts and working with a remote team | Git, GitHub, Git Bash |
+| [**DataAnalysisportofio**](https://github.com/Eng-Bidaaye/DataAnalysisportofio) | My data analysis portfolio | Excel, SQL, Python, dashboards |
 
 ---
 
@@ -88,7 +94,7 @@ I'm a **digital health and data professional** from Mogadishu, Somalia, working 
 
 <div align="center">
 
-**Open to collaboration on digital health, AI, and automation projects.**
+**If you're working on digital health, data or automation, I'd be glad to hear from you.**
 
 <img src="./assets/bidaaye-logo.png" alt="BIDAAYE logo" width="220" />
 
