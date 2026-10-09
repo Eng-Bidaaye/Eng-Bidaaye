@@ -24,20 +24,9 @@
 
 I'm Aweis, from Mogadishu, Somalia. I work on the HMIS / ICT team at the Directorate of Health and Human Services, Banadir Regional Administration, where we're moving public health facilities from paper registers to electronic records.
 
-**What I do**
+My background is in data analytics, digital marketing, business strategy and IT support.
 
-- Configure and support the **RAAD EHR** (OpenMRS / Bahmni) in public health facilities
-- Convert paper clinical forms into digital forms
-- Link facility data to **DHIS2** for reporting
-- Train and support district HMIS officers
-
-**What I bring**
-
-My background is in data analytics, digital marketing, business strategy and IT support. Together, they help me do more than set up a system: I make sure the data is reliable, the people using it understand it, and the work fits what a facility actually needs.
-
-**What's next**
-
-I'm learning full-stack development and AI (Python, FastAPI, React, PostgreSQL and Docker) so I can build digital health tools myself, not only run them. I'm also doing a postgraduate degree at INTI International University.
+Next, I'm learning full-stack development and AI so I can build digital health tools myself. I'm also doing a postgraduate degree at INTI International University.
 
 ---
 
