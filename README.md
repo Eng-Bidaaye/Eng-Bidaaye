@@ -24,9 +24,9 @@
 
 I'm Aweis, from Mogadishu, Somalia. I work on the HMIS / ICT team at the Directorate of Health and Human Services, Banadir Regional Administration, where we're moving public health facilities from paper registers to electronic records.
 
-My background is in data analytics, digital marketing, business strategy and IT support.
+My background is in data analytics, digital marketing, business strategy and IT support, and today I work hands-on with electronic health records (OpenMRS / Bahmni), DHIS2 and health data.
 
-Next, I'm learning full-stack development and AI so I can build digital health tools myself. I'm also doing a postgraduate degree at INTI International University.
+I'm now training to become an **AI engineer**, so I can build AI tools for digital health. I'm also doing a postgraduate degree at INTI International University.
 
 ---
 
@@ -85,7 +85,7 @@ Next, I'm learning full-stack development and AI so I can build digital health t
 
 <div align="center">
 
-**If you're working on digital health, data or automation, I'd be glad to hear from you.**
+**Open to work and collaboration in digital health, data and AI. Let's connect.**
 
 <img src="./assets/bidaaye-logo.png" alt="BIDAAYE logo" width="220" />
 
