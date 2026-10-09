@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="48" viewBox="0 0 700 48" role="img" aria-label="Full-Stack AI Engineer | AI Enthusiast | Automation Builder">
+  <defs>
+    <clipPath id="c1"><rect id="r1" x="205" y="0" height="48" width="290"/></clipPath>
+    <clipPath id="c2"><rect id="r2" x="264" y="0" height="48" width="0"/></clipPath>
+    <clipPath id="c3"><rect id="r3" x="231" y="0" height="48" width="0"/></clipPath>
+  </defs>
+  <style>
+    text { font: 600 22px 'Courier New', Consolas, 'Liberation Mono', monospace; fill: #2f81f7; }
+    #r1 { animation: l1 9s linear infinite; }
+    #r2 { animation: l2 9s linear infinite; }
+    #r3 { animation: l3 9s linear infinite; }
+    @keyframes l1 { 0% {width:0} 13% {width:290px} 28% {width:290px} 33% {width:0} 100% {width:0} }
+    @keyframes l2 { 0% {width:0} 33% {width:0} 46% {width:172px} 61% {width:172px} 66% {width:0} 100% {width:0} }
+    @keyframes l3 { 0% {width:0} 66% {width:0} 79% {width:238px} 94% {width:238px} 100% {width:0} }
+  </style>
+  <text x="205" y="31" clip-path="url(#c1)">Full-Stack AI Engineer</text>
+  <text x="264" y="31" clip-path="url(#c2)">AI Enthusiast</text>
+  <text x="231" y="31" clip-path="url(#c3)">Automation Builder</text>
+</svg>
